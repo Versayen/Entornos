@@ -60,7 +60,7 @@ Para mas informacion puedes visitar este link: [GitHub Pages](https://myoctocat.
 
 Puedes tambien visitar estas fuentes oficiales:
 
-![Status](https://img.shields.io/badge/Metodología-Cascada-blue)
+![Status](https://img.shields.io/badge/Metodología-Scrum-blue)
 ![License](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-green)
 
 
