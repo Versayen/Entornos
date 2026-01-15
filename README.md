@@ -66,5 +66,5 @@ Puedes tambien visitar estas fuentes oficiales:
 
 ![Screenshot](https://myoctocat.com/assets/images/base-octocat.svg)
 
-## Modelo de Desarrollo en Cascada
+## Modelo Scrum
 ### Gracias Por visitarnos.
