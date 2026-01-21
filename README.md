@@ -319,9 +319,9 @@ http://localhost:3000
 Este es un proyecto académico, pero las sugerencias son bienvenidas:
 
 1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
+2. Crea una rama para tu feature (`git checkout -b feature/featurenueva`)
+3. Commit tus cambios (`git commit -m 'Add some featurenueva'`)
+4. Push a la rama (`git push origin feature/featurenueva`)
 5. Abre un Pull Request
 
 ---
@@ -336,7 +336,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **Equipo de Desarrollo**
 - Email: equipo@boardgamesocial.com
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- GitHub: [@bgs](https://github.com/boardgamessocial)
 
 ---
 
